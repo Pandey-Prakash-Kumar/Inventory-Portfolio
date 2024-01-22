@@ -1,0 +1,8 @@
+Company Name: Apple
+Number of Shares: 5
+Price of Shares: 40.0
+Mode of Payment: online
+Company Name: 7889
+Number of Shares: 8
+Price of Shares: 90.0
+Mode of Payment: online

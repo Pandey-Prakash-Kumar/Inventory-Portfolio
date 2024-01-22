@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="194768a9-cb85-4412-a278-304e7b952d99" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/Screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/index-files/index-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/index-files/index-11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/index-files/index-12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/index-files/index-13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/index-files/index-14.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/index-files/index-15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/index-files/index-16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/index-files/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/index-files/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/index-files/index-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/index-files/index-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/index-files/index-9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/Application.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/GUI.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/Investment.EmptyNameError.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/Investment.EmptySymbolError.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/Investment.PriceRangeError.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/Investment.QuantityRangeError.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/Investment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/MutualFund.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/Portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/Stock.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/class-use/Application.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/class-use/GUI.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/class-use/Investment.EmptyNameError.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/class-use/Investment.EmptySymbolError.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/class-use/Investment.PriceRangeError.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/class-use/Investment.QuantityRangeError.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/class-use/Investment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/class-use/MutualFund.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/class-use/Portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/class-use/Stock.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/investment/portfolio/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/serialized-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/javadoc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbproject/configs/file_io.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbproject/private/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbproject/private/configs/file_io.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/investment/portfolio/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/investment/portfolio/GUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/investment/portfolio/Investment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/investment/portfolio/MutualFund.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/investment/portfolio/Portfolio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/investment/portfolio/Stock.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2VhfsdDgzw372wKl2MqgJ88Bs1I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Java Projects/Investment Portfolio"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="194768a9-cb85-4412-a278-304e7b952d99" name="Changes" comment="" />
+      <created>1695293441230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695293441230</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Unit_Converter$Main.ic" NAME="Main Coverage Results" MODIFIED="1704904084376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
